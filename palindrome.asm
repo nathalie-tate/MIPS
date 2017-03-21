@@ -1,5 +1,8 @@
 # palindrome.asm
 # Nathalie Tate
+#	This code is freely available to be modified and distrubuted under the terms 
+#	of the MIT License. 
+
 # Checks if the entered string is a palindrome
 #
 # CASE SENSITIVE- racecar is a palindrome, Racecar is not!!!
